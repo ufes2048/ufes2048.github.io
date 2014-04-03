@@ -5,5 +5,5 @@ Made just for fun. [Play it here!](http://doge2048.com)
 
 
 ## License
-Doge2048 is licensed under the [MIT license.](https://github.com/laferrera/doge2048/blob/master/LICENSE.txt)
+EngComp2048 is licensed under the [MIT license.](https://github.com/ufes2048/ufes2048/blob/master/LICENSE.txt)
 
