@@ -1,4 +1,4 @@
-# Doge2048
+# EngComp2048
 Just a couple of minor tweakts to Gabriele Cirulli's code base [here](https://github.com/gabrielecirulli/2048)
 
 Made just for fun. [Play it here!](http://doge2048.com)
